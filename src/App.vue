@@ -17,9 +17,9 @@ export default {
   justify-content: center;
     position: absolute;
     top: 500px;
-    left: 40%;
-    font-size: 50px;
+    left: 35%;
+    font-size: 60px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: yellowgreen;
+    /* background-color: yellowgreen; */
 }
 </style>
